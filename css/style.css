@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: ;
+  font-family: "Roboto", sans-serif;
 }
 
 .navigation {
@@ -52,4 +52,18 @@ li a.active {
   margin-top: 15px;
   float: right;
   margin-right: 70px;
+}
+.social {
+  margin: 15px 50px 0px 0px;
+  float: right;
+  margin-top: 15px;
+}
+
+.social:hover {
+  opacity: 90% !important;
+}
+
+.fa-facebook {
+  background: #416ece;
+  color: white;
 }
