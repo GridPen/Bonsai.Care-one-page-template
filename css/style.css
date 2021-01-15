@@ -29,5 +29,9 @@ li a.active {
 }
 
 .nav-text {
-    padding-left: 40px;
+    padding-left: 250px;
+}
+
+.logo {
+    height: 30px;
 }
