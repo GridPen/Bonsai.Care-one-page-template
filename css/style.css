@@ -66,4 +66,5 @@ li a.active {
 .fa-facebook {
   background: #416ece;
   color: white;
+  border-radius: 2px;
 }
