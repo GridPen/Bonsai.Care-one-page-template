@@ -15,4 +15,29 @@ nav .navbar-nav li a:hover {
 .author {
   max-width: 100%;
   height: auto;
+  margin-top: 100px;
+}
+.right {
+  position: absolute;
+  margin-left: 480px;
+  margin-top: 220px;
+  width: 500px;
+}
+.text-area h1 {
+  font-family: Lato-Bold;
+  font-size: 30px;
+  color: #261608;
+  letter-spacing: 0;
+}
+.text-area h3 {
+  font-family: Lato-Medium;
+  font-size: 18px;
+  color: #261608;
+  letter-spacing: 0;
+}
+.text-area p {
+  font-family: Lato-Regular;
+  font-size: 14px;
+  color: #585a65;
+  letter-spacing: 0;
 }
