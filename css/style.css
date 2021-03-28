@@ -33,7 +33,7 @@ nav .navbar-nav li a:hover {
   font-family: Lato-Medium;
   font-size: 18px;
   color: #261608;
-  letter-spacing: 0;
+  letter-spacing: 0.5;
 }
 .text-area p {
   font-family: Lato-Regular;
